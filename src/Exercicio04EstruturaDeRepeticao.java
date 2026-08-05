@@ -19,7 +19,8 @@ public class Exercicio04EstruturaDeRepeticao {
             }
         }
 
-            Nessa resolução o i pode começar de qualquer número que ainda vai mostrar só os pares. Na de cima existe a vulnerabilidade caso eu mude a regra do count.
+            Nessa resolução o i pode começar de qualquer número que ainda vai mostrar só os pares.
+            Na de cima existe a vulnerabilidade caso eu mude a regra do count.
 
 
  */
